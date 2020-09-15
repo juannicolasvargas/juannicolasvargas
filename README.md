@@ -2,7 +2,7 @@
 
 #### Gabriel Diaz
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GaboFDC)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GaboFDC&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **GaboFDC/GaboFDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
